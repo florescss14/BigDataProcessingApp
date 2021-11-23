@@ -1,6 +1,8 @@
 # BigDataProcessingApp
 
 ### Commands for images  
+- **Pulling images**
+  - docker pull ImageName  
 - **Build image**
   - docker build -t florescss14/ImageName
 - **Running images**
