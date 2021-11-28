@@ -6,4 +6,5 @@
 4. For the namenode add an environmental variable for CLUSTER_NAME=cluster. It doesn't really matter the name.
 5. For the datanode add an environmental variable SERVICE_PRECONDITION=IP:8020 as that is the service node that the namenode has by default.
 6. The namenode is listening on port `9870` to display hadoop statistics and as seen in the documentation as well as port `8020` is the service port for the datanodes and must be exposed as well.
+7. The number of pods should be adjusted by removing autoscaling and only having one name node pod and scaling to two data node pods.
 
