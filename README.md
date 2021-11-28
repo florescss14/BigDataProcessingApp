@@ -25,3 +25,6 @@ From the GCP console
 3. Use `git pull https://github.com/florescss14/BigDataProcessingApp.git` and change the application IP addresses to the IP addresses of your application. Ports should remain the same.
 4. Run `javac App.java` and then `java App`
 5. DONE!
+
+## Video
+[Click here!](https://pitt-my.sharepoint.com/:v:/r/personal/cwf24_pitt_edu/Documents/CS1660_Presentation.webm?csf=1&web=1&e=Jjq0Dn)
