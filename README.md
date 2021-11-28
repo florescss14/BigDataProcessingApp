@@ -27,4 +27,4 @@ From the GCP console
 5. DONE!
 
 ## Video
-[Click here!](https://pitt-my.sharepoint.com/:v:/r/personal/cwf24_pitt_edu/Documents/CS1660_Presentation.webm?csf=1&web=1&e=Jjq0Dn)
+[Click here!](https://pitt-my.sharepoint.com/:v:/g/personal/cwf24_pitt_edu/EeuBCGRzGzZGglldvj8U0LEBgUTEZfbVgcyEKhsdHzR1Xw?e=Dip0EQ)
